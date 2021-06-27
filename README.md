@@ -199,6 +199,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [Godot Mixing Desk](https://github.com/kyzfrintin/Godot-Mixing-Desk) - Make procedural sound and adaptive/procedural music with a few nodes and a couple lines of code.
 - [GodotOnReady](https://github.com/31/GodotOnReady) - A C# (Mono) alternative to the GDScript-only `onready` keyword, without reflection.
 - [GodotRx](https://github.com/semickolon/GodotRx) - Reactive extensions for Godot C# (Mono).
+- [Godot Polygon 2D Fracture](https://github.com/SoloByte/godot-polygon2d-fracture) - Two simple scripts for fracturing and cutting polygons.
 - [Godot-Trail-System](https://github.com/OBKF/Godot-Trail-System) - Advanced 2D/3D trail system.
 - [Kehom's Godot Addon Pack](https://github.com/Kehom/GodotAddonPack) - A collection of addons for debugging, networking, UI, and more.
 - [Level of Detail (LOD)](https://github.com/Calinou/godot-lod) - Level of detail add-on for meshes, lights and particles. Can improve performance in large scenes.
@@ -299,6 +300,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [IntelliJ IDEA](https://github.com/exigow/intellij-gdscript) - Syntax highlighting and autocompletion.
 - [JetBrains Rider (C#)](https://github.com/JetBrains/godot-support) - Syntax highlighting, autocompletion and run configurations.
 - [Kakoune](https://github.com/Skytrias/gdscript-kak) - Syntax highlighting.
+- [GNU Nano](https://github.com/GodotID/nano-gdscript) - Syntax highlighting.
 - [Sublime Text](https://github.com/beefsack/GDScript-sublime) - Syntax highlighting.
 - [Vim](https://github.com/habamax/vim-godot) - Syntax highlighting, autocompletion and linting using the LSP server provided by the Godot editor. Also supports the Godot shader language.
 - [Visual Studio Code](https://code.visualstudio.com/download) - Comes with a wealth of features to make your programming experience as comfortable as possible.
